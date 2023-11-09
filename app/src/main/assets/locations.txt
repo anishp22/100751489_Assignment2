@@ -1,0 +1,50 @@
+Drake Hotel,43.643143,-79.424581
+Rebel,43.640825,-79.354581
+CN Tower,43.642558,-79.387078
+AMPM,43.640025,-79.440473
+The Rec Room Toronto,43.645237,-79.387792
+Canada's Wonderland,43.840294,-79.540581
+Casa Loma,43.678001,-79.409219
+Kensington Market,43.655214,-79.402058
+Trinity Bellwoods Park,43.648428,-79.413747
+Royal Alexandra Theatre,43.647419,-79.386915
+Yonge-Dundas Square,43.656131,-79.380782
+Graffiti Alley,43.647128,-79.403961
+University of Toronto,43.662892,-79.395656
+Royal Woodbine Golf Club,43.685051,-79.583140
+Woodbine Casino,43.715823,-79.603659
+Sherway Gardens,43.610921,-79.558278
+CF Toronto Eaton Centre,43.654531,-79.380710
+Rogers Centre,43.641437,-79.389353
+Edwards Gardens,43.737549,-79.377455
+Art Gallery of Ontario (AGO),43.653606,-79.392310
+Royal Ontario Museum (ROM),43.668292,-79.396004
+Ripley's Aquarium of Canada,43.642403,-79.386226
+Ontario Science Centre,43.716463,-79.339329
+Royal Botanical Gardens,43.276247,-79.905287
+Yorkdale,43.725573,-79.452033
+Cheesecake Factory,43.726592,-79.454057
+Square One,43.593156,-79.642419
+Scarborough Bluffs,43.707569,-79.239236
+Ontario Tech University,43.945685,-78.896761
+Toronto Zoo,43.818740,-79.182991
+Ontario Place,43.625192,-79.409437
+Toronto Islands,43.623160,-79.376384
+St. Lawrence Market,43.648693,-79.371657
+Kensington Market,43.655214,-79.402058
+Yves Saint Laurent,43.670099,-79.388552
+Billy Bishop Toronto City Airport,43.629005,-79.395982
+Toronto Pearson International Airport,43.685888,-79.615563
+Vaughan Mills,43.827587,-79.538666
+York University,43.773576,-79.502086
+Little Italy,43.655864,-79.407164
+Fort York,43.638010,-79.401790
+Distillery District,43.650735,-79.359054
+Nathan Phillips Square,43.652810,-79.383702
+Royal Conservatory of Music,43.668751,-79.398118
+Allan Gardens,43.659332,-79.375465
+Thomson Memorial Park,43.758324,-79.253768
+Aga Khan Museum,43.725178,-79.327678
+Evergreen Brick Works,43.684235,-79.365343
+Apt 200,43.644031,-79.420221
+IKEA Etobicoke,43.618926,-79.534481
